@@ -25,6 +25,6 @@ As alterações são simples:
 
 **OBS:** Quando estamos em desenvolvimento teremos os path apenas com /, tipo `http://localhost:8080/clientes` por exemplo, quando implantamos no tomcat externo como ele tem diversas aplicações temos que dizer qual queremos acessar, desta forma ficaria assim, `http://localhost:8080/AQUINOMEDOWARGERADO/clientes`
 
-**BUGIntelij**
+**Intelij**
 No IntelliJ as dependências fornecidas não são adicionadas ao classpath. Supondo que você queira manter o IDEA, faça isso:
 ![bugIntelijj](https://user-images.githubusercontent.com/8472133/126052352-3a72ab06-e3c9-4810-8bba-5e7f3275a47d.png)
