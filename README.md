@@ -1,5 +1,5 @@
 # spring-boot-tomcat-externo
-Usando *springBoot* com tomcat embeded apenas no desenvolvimento e tomcat externo para hospedar app
+Usando *springBoot* com tomcat embeded apenas no desenvolvimento e tomcat externo para hospedar sua aplicação.
 
 As vezes queremos desenvolver uma aplicação usando as facilidades do springboot com tomcat embeded, contudo quando vamos colocar em produção o cliente exige que seja um tomcat externo, ou tomcat já instalado na empresa.
 
